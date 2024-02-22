@@ -11,12 +11,12 @@
 <br>
 <p align="center">
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=Paim0naletka&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Loremas1er&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
   </picture>
 
   <br>
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paim0naletka&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Loremas1er&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
   </picture>
 </p>
 
