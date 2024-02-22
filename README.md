@@ -39,7 +39,7 @@
 
 <br>
 <p align="center">
-  <a href="https://media1.tenor.com/m/V_2YJrhVXy0AAAAC/paimon-break-dance-paimon.gif"><img height="100em" src="https://count.getloli.com/get/@:Paimon?theme=rule34"/></a>
+  <a href="https://media1.tenor.com/m/UNtBj_J3deIAAAAC/lore-master-helltaker.gif"><img height="100em" src="https://count.getloli.com/get/@:Loremas1er?theme=rule34"/></a>
 </p>
 
 <img src="https://github.com/narumii/narumii/assets/57463654/cba93ead-06f4-4194-bd62-b33ea4b6c7f2" width="100%">
