@@ -1,16 +1,13 @@
-<!-- Twitter when? 
-<h6><span title="ロリ・レイプ"><p align="right">ロリコン</p></span></h6>-->
-<img height="40" align="left" src="https://skillicons.dev/icons?i=cs,dotnet,java,idea&theme=dark"/>
-<h1><span title="I want to sleep..."><p align="right">Sleep?</p></span></h1>
+<img height="40" align="left" src="https://skillicons.dev/icons?i=cs,dotnet,java,idea,cpp&theme=dark"/>
+<h1><span title="Science is the best thing in this world."><p align="right">Science is...</p></span></h1>
 
 <br>
 <p align="center">
-  <span title="Mmmmmmm sleep...">
-    <img src="https://media1.tenor.com/m/KvgI1j1IaLIAAAAd/genshin-paimon.gif"/>
+  <span title="That's what I've become...">
+    <img src="https://i.imgur.com/vHZNYjt.jpeg"/>
   </span><br><br>
 </p>
 
-<!-- 403? -->
 <br>
 <p align="center">
   <picture>
@@ -25,18 +22,20 @@
 
 <details open align="center">
   <summary>Socials</summary>
-  <a href="https://discordapp.com/users/482084942218526721">
+  <a href="https://discordapp.com/users/1073757655627214918">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark"/>
   </a>
   <br>
      
   <details align="center">
-    <summary>Discord Server</summary>
+    <summary>PaimonSoft</summary>
     <a align="center" href="https://discord.gg/aFQAAVDX4C"><img src="https://discordapp.com/api/guilds/1063878329201086474/widget.png?style=banner2"/></a>
   </details>
+  <details align="center">
+    <summary>HentaiWare</summary>
+    <a align="center" href="https://discord.gg/ZY4mNhfCqB"><img src="https://discordapp.com/api/guilds/1206941846761246792/widget.png?style=banner2"/></a>
+  </details>
 </details>
-
-<!-- Update This!!!!! -->
 
 <br>
 <p align="center">
