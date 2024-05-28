@@ -39,7 +39,7 @@
 
 <br>
 <p align="center">
-  <a href="https://media1.tenor.com/m/UNtBj_J3deIAAAAC/lore-master-helltaker.gif"><img height="100em" src="https://count.getloli.com/get/@:Loremas1er?theme=rule34"/></a>
+  <a href="https://github.com/Loremas1er/Loremas1er/assets/88497195/c99861ee-8be6-4fd5-bcdf-04a19fc74561"><img height="100em" src="https://count.getloli.com/get/@:Loremas1er?theme=rule34"/></a>
 </p>
 
 <img src="https://github.com/narumii/narumii/assets/57463654/cba93ead-06f4-4194-bd62-b33ea4b6c7f2" width="100%">
